@@ -1,11 +1,9 @@
-
 function App() {
-
-  return (
-    <>
-
-    </>
-  )
+	return (
+		<>
+			<div>TechBlog</div>
+		</>
+	);
 }
 
-export default App
+export default App;
