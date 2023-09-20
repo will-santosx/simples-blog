@@ -8,7 +8,7 @@ const Header = () => {
 				TechBlog
 			</span>
 			<Link to={"/nova-postagem"}>
-				<button className="hover:scale-105 hover:bg-White hover:bg-opacity-10 transition-all border-2 text-White shadow-md border-White p-1 w-[50%] md:w-[330px] rounded-lg">
+				<button className="hover:scale-105 hover:bg-White hover:bg-opacity-10 transition-all border-2 text-White shadow-md border-White p-1 w-[100%] md:w-[330px] rounded-lg">
 					Nova Postagem
 				</button>
 			</Link>
