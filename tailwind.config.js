@@ -5,6 +5,7 @@ export default {
 		extend: {
 			fontFamily: {
 				Vigilance: "'Vigilance BRK', sans-serif;",
+				Montserrat: "'Montserrat', sans-serif;",
 			},
 			colors: {
 				Orange: {
